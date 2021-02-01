@@ -7,8 +7,4 @@ Se ha utilizado HTML5 y JavaScript para conseguir que el menú desaparezca y se 
 En cuanto a CSS, se ha utilizado CSS Grid, Flexbox y responsive media queries 
 
 
-El clon está disponible en: 
-
-https://microsoftclone.mariajbellido.repl.co/
-
 
